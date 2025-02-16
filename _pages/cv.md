@@ -10,6 +10,7 @@ redirect_from:
 An updated CV can be obtained [HERE](http://zixinhu-apple-manzana.github.io/files/updated_CV_Zixin_HU.pdf)!
 
 {% include base_path %}
+
 ======
 Education
 ======
