@@ -28,8 +28,7 @@ author:
   # bio              : "Ph. D., specialized in computational biophysics, 
   # with a focus on coarse-grained model and molecular dynamics simulation. 
   # Research explores intrinsically disordered proteins, liquid-liquid phase separation, coarse-grained modelling and applications on biologically meanful systems. "
-  bio              : "Ph. D. | Computational biophysicist | coarse-grained model | MD simulation | IDP & IDRs | LLPS |\
-  hope to establish biomolecular modelling empire"
+  bio              : "Ph. D. | Computational biophysicist | coarse-grained model | MD simulation | IDP & IDRs | LLPS |\\nhope to establish biomolecular modelling empire"
   location         : "Singapore"
   employer         : "Nanyang Technological University"
   uri              : https://ZixinHu-Apple-Manzana.github.io# URL
