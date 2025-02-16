@@ -7,7 +7,7 @@ excerpt: 'This paper is about the role of intirnsically disordered regions (IDRs
 date: 2023-06-27
 venue: 'Cell Reports'
 citation: 'Han, X.; Hu, Z.; Surya, W.; Ma, Q.; Zhou, F.; Nordenskiöld, L.; Torres, J.; Lu, L.; Miao, Y. (2023). &quot;The intrinsically disordered region of coronins fine-tunes oligomerization and actin polymerization.&quot; <i>Cell Reports</i>. 42(6).'
-paperurl: 'https://doi.org/10.1016/j.celrep.2023.112594'
+link: 'https://doi.org/10.1016/j.celrep.2023.112594'
 ---
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/Coiled_coil.pdf'
