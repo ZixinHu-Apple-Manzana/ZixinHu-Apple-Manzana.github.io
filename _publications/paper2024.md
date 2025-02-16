@@ -2,7 +2,7 @@
 title: "Refined Bonded Terms in Coarse-Grained Models for Intrinsically Disordered Proteins Improve Backbone Conformations"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper2024
 excerpt: 'This paper is about the refined coarse-grained (CG) bonded potentials for disordered proteins. It improves the backbone conformation and captures the transient secondary structure of p53. '
 date: 2024-07-01
 venue: 'The Journal of Physical Chemistry B'
