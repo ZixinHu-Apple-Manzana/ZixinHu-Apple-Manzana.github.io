@@ -17,9 +17,15 @@ Education
 Work experience
 ======
 * Summer 2019: Research Assistant
-  * Nanyang Techological University
+  * Institute: Nanyang Techological University, Singapore
+  * Project: Molecular Dynamics Simulation Study on Bacterial Transglycosylase
   * Duties includes: drug discovery and design, small ligand docking, virtual screening, molecular dynamics simulation
   * Supervisor: Prof Mu Yuguang
+* Summer 2018: Research Assistant
+  * Institute: Fudan University, Shanghai, China
+  * Project: Study on the Structure of CALHM1
+  * Duties includes: molecular clone, bacteria cell culture, insect cell culture, human cell culture, membrane protein purification
+  * Supervisor: Prof Motoyuki Hattori
   
 Skills
 ======
