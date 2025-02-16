@@ -7,7 +7,7 @@ excerpt: 'This paper is about the refined coarse-grained (CG) bonded potentials 
 date: 2024-07-01
 venue: 'The Journal of Physical Chemistry B'
 citation: 'Zixin Hu, Tiedong Sun, Wenwen Chen, Lars Nordenskiöld, and Lanyuan Lu (2024). &quot;Refined Bonded Terms in Coarse-Grained Models for Intrinsically Disordered Proteins Improve Backbone Conformations.&quot; <i>The Journal of Physical Chemistry B</i>. 128(27).'
-paperurl: 'https://doi.org/10.1021/acs.jpcb.4c02823' 
+link: 'https://doi.org/10.1021/acs.jpcb.4c02823' 
 ---
 <!--slidesurl: 'http://academicpages.github.io/files/slides1.pdf'-->
 paperurl: 'http://ZixinHu-Apple-Manzana.github.io/files/bonded_terms.pdf'
