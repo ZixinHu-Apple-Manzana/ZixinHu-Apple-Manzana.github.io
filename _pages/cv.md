@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-An updated CV can be obtained [here](http://zixinhu-apple-manzana.github.io/files/updated_CV_Zixin_HU.pdf)!
+An updated [CV](http://zixinhu-apple-manzana.github.io/files/updated_CV_Zixin_HU.pdf)!
+======
 Education
 ======
 * Ph.D in School of Biological Sciences, Nanyang Technological University, Singapore 2025
