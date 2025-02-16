@@ -23,21 +23,9 @@ Work experience
   
 Skills
 ======
-* Simulation related: 
-  * GROMACS
-  * LAMMPS
-  * RoseTTA
-  * PyMOL
-  * VMD
-* Programming: 
-  * Python
-  * C++
-  * MATLAB
-  * Linux bash
-  * JAVA
-* Plotting: 
-  * Inkscape
-  * Blender (a little)
+* Simulation related: GROMACS, LAMMPS, RoseTTA, PyMOL, VMD
+* Programming Languages: Python, C++, MATLAB, Linux bash, JAVA
+* Plotting: Inkscape, Blender (a little)
 
 Publications
 ======
