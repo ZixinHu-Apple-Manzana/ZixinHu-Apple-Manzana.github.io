@@ -2,6 +2,7 @@
 title: "Teaching experience as Teaching Assistant (416 hours)"
 type: "Undergraduate course"
 venue: "School of Biological Sciences, Nanyang Technological University"
+location: "Singapore"
 date: 2020-2022
 ---
 * Principle of genetics: tutorial 
@@ -17,5 +18,5 @@ date: 2020-2022
 permalink: /teaching/teaching_experience
 
 
-location: "Singapore"
+
 -->
