@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Zixin Hu has a lot of hobbies, though never finds sufficient time to develop them\:\) <br/><img src='/images/website.png'>
+Zixin Hu has a lot of hobbies, though never finds sufficient time to develop them \:P <br/><img src='/images/website.png'>
 
 {% include base_path %}
 
