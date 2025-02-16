@@ -5,12 +5,12 @@ venue: "School of Biological Sciences, Nanyang Technological University"
 location: "Singapore"
 date: "2020-08-10"
 ---
-* Principle of genetics: tutorial 
-* Introduction to computational thinking (python course): computation lab 
-* Biophysical chemistry: tutorial, computation lab 
-* Biostatistics: computation lab 
-* Topics in cell biology: tutorial 
-* Biochemistry: tutorial
+* <b>Principle of genetics</b>: tutorial 
+* <b>Introduction to computational thinking</b> (python course): computation lab 
+* <b>Biophysical chemistry: tutorial</b>, computation lab 
+* <b>Biostatistics</b>: computation lab 
+* <b>Topics in cell biology</b>: tutorial 
+* <b>Biochemistry</b>: tutorial
 
 
 <!--collection: teaching
