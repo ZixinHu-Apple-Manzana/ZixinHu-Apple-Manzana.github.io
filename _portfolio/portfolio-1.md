@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-excerpt: "Taken in May 2023 <br/><img src='/images/zixin_green.jpg'>"
+excerpt: "Taken in May 2023 <br/><img src='/images/website.png'>"
 ---
 
 <!--
