@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
+
 Hello! This is the personal website of Zixin Hu hosted on [GitHub pages](https://pages.github.com)! 
 
 Zixin Hu is a researcher trying to pursue academic career. Her dream is to establish her biomolecular modelling empire. If this ambition comes true, she might appear in any important fields: cancer, Alzheimer, Huntington...Here is her [CV](https://zixinhu-apple-manzana.github.io/cv/) and current [publications](https://zixinhu-apple-manzana.github.io/publications/). Please don't ask why so few. She would be heartbroken! 
