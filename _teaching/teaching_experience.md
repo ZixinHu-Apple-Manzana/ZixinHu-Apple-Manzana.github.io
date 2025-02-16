@@ -1,13 +1,13 @@
 ---
 title: "Teaching experience as Teaching Assistant (416 hours)"
-
+---
 * Principle of genetics: tutorial 
 * Introduction to computational thinking (python course): computation lab 
 * Biophysical chemistry: tutorial, computation lab 
 * Biostatistics: computation lab 
 * Topics in cell biology: tutorial 
 * Biochemistry: tutorial
----
+
 
 <!--collection: teaching
 type: "Undergraduate course"
