@@ -1,6 +1,6 @@
 ---
 title: "Teaching experience as Teaching Assistant (416 hours)"
-permalink: /teaching/teaching_experience
+type: "Undergraduate course"
 ---
 * Principle of genetics: tutorial 
 * Introduction to computational thinking (python course): computation lab 
@@ -11,7 +11,8 @@ permalink: /teaching/teaching_experience
 
 
 <!--collection: teaching
-type: "Undergraduate course"
+
+permalink: /teaching/teaching_experience
 venue: "School of Biological Sciences, Nanyang Technological University"
 date: 2020-2022
 location: "Singapore"
