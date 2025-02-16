@@ -11,8 +11,6 @@ An updated CV can be obtained [HERE](http://zixinhu-apple-manzana.github.io/file
 
 {% include base_path %}
 
-======
-
 Education
 ======
 * Ph.D in School of Biological Sciences, Nanyang Technological University, Singapore 2025
