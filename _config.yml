@@ -23,9 +23,11 @@ repository               : "ZixinHu-Apple-Manzana/ZixinHu-Apple-Manzana.github.i
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "HU, Zixin"
   pronouns         : "She/Her"# example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph. D., specialized in computational biophysics, 
+  with a focus on coarse-grained model and molecular dynamics simulation. 
+  Research explores intrinsically disordered proteins, liquid-liquid phase separation, coarse-grained modelling and applications on biologically meanful systems. "
   location         : "Singapore"
   employer         : "Nanyang Technological University"
   uri              : https://ZixinHu-Apple-Manzana.github.io# URL
