@@ -1,4 +1,4 @@
-title: "Teaching experience as Teaching Assistant"
+title: "Teaching experience as Teaching Assistant (416 hours)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching_experience
