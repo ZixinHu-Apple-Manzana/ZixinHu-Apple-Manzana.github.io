@@ -9,7 +9,7 @@ redirect_from:
 ======
 Hello! This is the personal website of Zixin Hu hosted on [GitHub pages](https://pages.github.com)! 
 
-Zixin Hu is a researcher trying to pursue academic career. Her dream is to establish her biomolecular modelling empire. If this ambition comes true, she might appear in any important fields: cancer, Alzheimer, Huntington...Here is her [CV](https://zixinhu-apple-manzana.github.io/cv/) and current [publications](https://zixinhu-apple-manzana.github.io/publications/). Please don't ask why so few. She would be heartbroken if she hears so! 
+Zixin Hu is a researcher trying to pursue academic career. Her dream is to establish her biomolecular modelling empire. If this ambition comes true, she might appear in any important fields: cancer, Alzheimer, Huntington...Here is her [CV](https://zixinhu-apple-manzana.github.io/cv/) and current [publications](https://zixinhu-apple-manzana.github.io/publications/). Please don't ask why so few. She would be heartbroken! 
 
 On her spare time, she enjoys doing a lot of interesting while useless stuff. She loves watching episodes, such as <i>How to Get away with a Murder</i>, <i>Criminal Minds</i> etc. She is a big fan of organisms. You might find her watching videos of capybara, llama, toucan, koala, pika, owl...or taking photos of plants! She is also quite into handwork, including knotting, wire jewelry, and sewing (though her skill is not good). More hobbies can be found [here](https://zixinhu-apple-manzana.github.io/interests/)! 
 
