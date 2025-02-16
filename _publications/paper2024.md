@@ -6,7 +6,7 @@ permalink: /publication/paper2024
 excerpt: 'This paper is about the refined coarse-grained (CG) bonded potentials for disordered proteins. It improves the backbone conformation and captures the transient secondary structure of p53. '
 date: 2024-07-01
 venue: 'The Journal of Physical Chemistry B'
-paperurl: 'http://academicpages.github.io/files/bonded_terms.pdf'
+paperurl: 'http://ZixinHu-Apple-Manzana.github.io/files/bonded_terms.pdf'
 citation: 'Zixin Hu, Tiedong Sun, Wenwen Chen, Lars Nordenskiöld, and Lanyuan Lu (2024). &quot;Refined Bonded Terms in Coarse-Grained Models for Intrinsically Disordered Proteins Improve Backbone Conformations.&quot; <i>The Journal of Physical Chemistry B</i>. 128(27).'
 url: https://doi.org/10.1021/acs.jpcb.4c02823 
 ---
