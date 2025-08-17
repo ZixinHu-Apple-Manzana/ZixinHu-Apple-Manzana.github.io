@@ -3,7 +3,7 @@ title: "Systematic Investigation of the Liquid–Liquid Phase Separation Propens
 collection: publications
 category: manuscripts
 permalink: /publication/paper2025
-excerpt: "<p align='center'><img src='/images/bonded_terms.png'></p><br>This paper is about relation between liquid-liquid phase separation (LLPS) propensity and multivalency of disordered proteins. It provides a recommended multivalence cutoff for LLPS </b>"
+excerpt: "<p align='center'><img src='/images/paper2025.png'></p><br>This paper is about relation between liquid-liquid phase separation (LLPS) propensity and multivalency of disordered proteins. It provides a recommended multivalence cutoff for LLPS</b>"
 date: 2025-08-12
 venue: 'The Journal of Physical Chemistry B'
 citation: 'Zixin Hu, Tiedong Sun, Lars Nordenskiöld, and Lanyuan Lu (2025). &quot;Systematic Investigation of the Liquid–Liquid Phase Separation Propensity of Intrinsically Disordered Proteins by Molecular Simulations.&quot; <i>The Journal of Physical Chemistry B</i>. ASAP.'
