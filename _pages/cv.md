@@ -20,6 +20,11 @@ Education
 
 Work experience
 ===
+* Jul 2025-Now
+  * Institute: Kyoto University, Japan
+  * Project: Mesoscale Model on the Role of Condensates in F-actin Bundling
+  * Duties includes: mesoscale modeling
+  * Supervisor: Prof Shoji Takada
 * Summer 2019: Research Assistant
   * Institute: Nanyang Techological University, Singapore
   * Project: Molecular Dynamics Simulation Study on Bacterial Transglycosylase
