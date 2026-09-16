@@ -38,7 +38,7 @@ Work experience
   
 Skills
 ===
-* Simulation related: GROMACS, LAMMPS, RoseTTA, PyMOL, VMD
+* Simulation related: ReaDDY2, GROMACS, LAMMPS, RoseTTA, PyMOL, VMD
 * Programming Languages: Python, C++, MATLAB, Linux bash, JAVA
 * Plotting: Inkscape, Blender (a little)
 
