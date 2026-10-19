@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-An updated CV can be obtained [HERE](http://zixinhu-apple-manzana.github.io/files/new_CV_HU_ZIXIN_2026.pdf)!
+An updated CV can be obtained [HERE](http://zixinhu-apple-manzana.github.io/files/ID_CV_HU_ZIXIN_2026.pdf)!
 
 ***
 
